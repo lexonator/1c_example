@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="46b4f118-3a44-48b4-8bdf-7fcdd449b4f8" name="Пример_работы_с_git" defaultRunMode="ManagedApplication" vendor="" version="" defaultLanguage="Language.русский" dataLockControlMode="Managed" objectAutonumerationMode="NotAutoFree" modalityUseMode="DontUse">
+<?xml version="1.0" encoding="UTF-8"?><mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="46b4f118-3a44-48b4-8bdf-7fcdd449b4f8" name="Пример_работы_с_git" defaultRunMode="ManagedApplication" vendor="" version="" defaultLanguage="Language.русский" dataLockControlMode="Managed" objectAutonumerationMode="NotAutoFree" modalityUseMode="DontUse">
     <usePurposes>PersonalComputer</usePurposes>
+    <catalogs>Catalog.Номенклатура</catalogs>
   <synonym key="ru" value="Пример работы с git"/>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="f1d0a767-7aa5-4c82-a3e9-b06ebb00a301"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="109065d0-76d0-4ad2-9986-0435307f5182"/>
